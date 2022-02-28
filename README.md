@@ -1,5 +1,5 @@
 # Custom container class storing objects of any type
-Final project of the subject object oriented programming
+A class responsible for storing objects of any predefined type
 
 ## Design
 
